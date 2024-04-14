@@ -1,0 +1,63 @@
+Przypadek testowy 1: Przetestuj strumieniowe przesyłanie muzyki w niskiej jakości
+
+ID przypadku testowego: SQ_TC_001
+Opis: Ten przypadek testowy sprawdza, czy strumieniowanie muzyki w niskiej jakości działa poprawnie, uwzględniając różne warunki sieciowe, typy urządzeń i ustawienia użytkownika.
+
+Kroki testowe:
+1. Zaloguj się do aplikacji Spotify.
+2. Przejdź do ustawień jakości strumieniowania.
+3. Wybierz opcję "Niska jakość" jako preferowaną jakość strumieniowania.
+4. Odtwórz kilka różnych utworów na różnych urządzeniach (np. telefon komórkowy, komputer).
+5. Sprawdź jakość dźwięku i płynność odtwarzania muzyki przy różnych warunkach sieciowych (np. stabilne połączenie Wi-Fi, słabe połączenie mobilne).
+6. Sprawdź jakość dźwięku i płynność odtwarzania muzyki podczas korzysatania z funkcji JAM.
+
+Oczekiwany wynik:
+- Muzyka powinna być odtwarzana w niskiej jakości zgodnie z wybraną opcją, przy minimalnych opóźnieniach i stratach jakości dźwięku.
+
+Przypadek testowy 2: Przetestuj strumieniowe przesyłanie muzyki w normalnej jakości
+
+ID przypadku testowego: SQ_TC_002
+Opis: Ten przypadek testowy sprawdza, czy strumieniowanie muzyki w normalnej jakości działa poprawnie, uwzględniając różne warunki sieciowe, typy urządzeń i ustawienia użytkownika.
+
+Kroki testowe:
+1. Zaloguj się do aplikacji Spotify.
+2. Przejdź do ustawień jakości strumieniowania.
+3. Wybierz opcję "Normalna jakość" jako preferowaną jakość strumieniowania.
+4. Odtwórz kilka różnych utworów na różnych urządzeniach (np. telefon komórkowy, komputer).
+5. Sprawdź jakość dźwięku i płynność odtwarzania muzyki przy różnych warunkach sieciowych (np. stabilne połączenie Wi-Fi, słabe połączenie mobilne).
+6. Sprawdź jakość dźwięku i płynność odtwarzania muzyki podczas korzysatania z funkcji JAM.
+
+Oczekiwany wynik:
+- Muzyka powinna być odtwarzana w normalnej jakości zgodnie z wybraną opcją, przy minimalnych opóźnieniach i stratach jakości dźwięku.
+
+Przypadek testowy 3: Przetestuj strumieniowe przesyłanie muzyki w wysokiej jakości
+
+ID przypadku testowego: SQ_TC_003
+Opis: Ten przypadek testowy sprawdza, czy strumieniowanie muzyki w wysokiej jakości działa poprawnie, uwzględniając różne warunki sieciowe, typy urządzeń i ustawienia użytkownika.
+
+Kroki testowe:
+1. Zaloguj się do aplikacji Spotify.
+2. Przejdź do ustawień jakości strumieniowania.
+3. Wybierz opcję "Wysoka jakość" jako preferowaną jakość strumieniowania.
+4. Odtwórz kilka różnych utworów na różnych urządzeniach (np. telefon komórkowy, komputer).
+5. Sprawdź jakość dźwięku i płynność odtwarzania muzyki przy różnych warunkach sieciowych (np. stabilne połączenie Wi-Fi, słabe połączenie mobilne).
+6. Sprawdź jakość dźwięku i płynność odtwarzania muzyki podczas korzysatania z funkcji JAM.
+
+Oczekiwany wynik:
+- Muzyka powinna być odtwarzana w wysokiej jakości zgodnie z wybraną opcją, z dobrą jakością dźwięku i minimalnymi opóźnieniami.
+
+Przypadek testowy 4: Przetestuj strumieniowe przesyłanie muzyki w bardzo wysokiej jakości
+
+ID przypadku testowego: SQ_TC_004
+Opis: Ten przypadek testowy sprawdza, czy strumieniowanie muzyki w bardzo wysokiej jakości działa poprawnie, uwzględniając różne warunki sieciowe, typy urządzeń i ustawienia użytkownika.
+
+Kroki testowe:
+1. Zaloguj się do aplikacji Spotify.
+2. Przejdź do ustawień jakości strumieniowania.
+3. Wybierz opcję "Bardzo wysoka jakość" jako preferowaną jakość strumieniowania.
+4. Odtwórz kilka różnych utworów na różnych urządzeniach (np. telefon komórkowy, komputer).
+5. Sprawdź jakość dźwięku i płynność odtwarzania muzyki przy różnych warunkach sieciowych (np. stabilne połączenie Wi-Fi, słabe połączenie mobilne).
+6. Sprawdź jakość dźwięku i płynność odtwarzania muzyki podczas korzysatania z funkcji JAM.
+
+Oczekiwany wynik:
+- Muzyka powinna być odtwarzana w bardzo wysokiej jakości zgodnie z wybraną opcją, z doskonałą jakością dźwięku i minimalnymi opóźnieniami.

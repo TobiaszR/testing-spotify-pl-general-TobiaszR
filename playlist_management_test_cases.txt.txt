@@ -1,0 +1,31 @@
+1. Tytuł: 	
+	Testowanie fukcji zarządzania listami odtwarzania
+
+2. Opis: 	
+	Sprawdza działanie tworzenia, edytowania i usuwania list odtwarzania.
+
+3. Warunki wstępne: 	
+	Uruchomiona aplikacja na stronie głownej i zalogowane konto użytkownika.
+
+4. Kroki testu: 	
+	1. Kliknij przycisk "Utwórz playlistę lub folder", następnie wybierz "utwórz nową playlistę.
+	2. Kliknij prawym przyciskiem myszy istniejącą listę, wybierz opcję edycji szczegółów i zmień pole "nazwa". Zatwierdz zmianę. 
+	3. Wybierz dowolny utwór, kliknij prawym przyciskiem myszy i dodaj do istniejącej playlisty.
+	4. Wybierz listę odtwarzania i z rozwijanego menu wybierz "udostępnij".
+	5. Rozpocznij funkcję social listening/jam i udostępnij innym użytkownikom.
+	6. Wybierz istniejącą listę z utworami, wybrany utwór kliknij PPM i usuń z listy.
+	7. Wybierz istniejącą listę i kliknij przycisk "usuń".
+
+5. Oczekiwane wyniki: 	
+	Dla wszystkich kroków testu powinien wyświetlić się poszukiwany utwór, wykonawca bądź album.
+	W przypadku tytułu który występuje u wielu wykonawców, dopuszczalne jest wyświetlenie utworu innch popularnych wykonawców, 
+	jeżeli ten nie został sprecyzowany.
+
+6. Warunki końcowe: 		
+	1. Nowa lista odtwarzania jest utworzona i widoczna w panelu użytkownika. 
+	2. Nazwa listy odtwarzania zostaje zmieniona zgodnie z wprowadzonymi przez użytkownika zmianami.
+	3. Wybrany utwór zostaje dodany do listy i jest widoczny w jej zawartości. 
+	4. Inni użytkownicy mogą zobaczyć zawartość listy i odtwarzać jej utwory.
+	5. Inni użytkownicy mogą słuchać listy w czasie rzeczywistym.
+	6. Wybrany utwór zostaje usunięty z listy i nie jest już widoczny w jej zawartości.
+	7. Lista odtwarzania zostaje usunięta wraz z jej zawartością.

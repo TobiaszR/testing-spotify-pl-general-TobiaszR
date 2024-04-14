@@ -1,0 +1,25 @@
+1. Tytuł: 	
+	Testowanie fukcji wyszukiwania muzyki
+
+2. Opis: 	
+	Sprawdza działanie wyszukiwarki muzyki po tytule, wykonawcy i albumie, a także obsługę wyszukiwań z błędem.
+
+3. Warunki wstępne: 	
+	Uruchomiona aplikacja na stronie głownej i zalogowane konto użytkownika.
+
+4. Kroki testu: 	
+	1. Wpisz w pole wyszukiwania prawidłowy tytuł, obecnego w bazie utworu, na przykład: Sundress.
+	2. Wpisz w pole wyszukiwania prawidłowego, obecnego w bazie wykonawcę, na przykład: Shakira.
+	3. Wpisz w pole wyszukiwania prawidłową nazwę obecnego w bazie albumu, na przykład: Let's Just Leave.
+	4. Wpisz w pole wyszukiwania tytuł obecnego w bazie utworu z błędem w pisowni, na przykład: Sumdres.
+	5. Wpisz w pole wyszukiwania obecnego w bazie wykonawcę z błędem w pisowni, na przykład: Szakyra.
+	6. Wpisz w pole wyszukiwania nazwę obecnego w bazie albumu z błędem w pisowni, na przykład: Piuropósze.
+	7. Wpisz w pole wyszukiwania istniejącą nazwę ze znakiem specjalnym, na przykład: A$AP Rocky. 
+
+5. Oczekiwane wyniki: 	
+	Dla wszystkich kroków testu powinien wyświetlić się poszukiwany utwór, wykonawca bądź album.
+	W przypadku tytułu który występuje u wielu wykonawców, dopuszczalne jest wyświetlenie utworu innch popularnych wykonawców, 
+	jeżeli ten nie został sprecyzowany.
+
+6. Warunki końcowe: 		
+	W oknie aplikacji wyświetla się wynik ostaniego wyszukiwania.

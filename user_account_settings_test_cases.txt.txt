@@ -1,0 +1,61 @@
+Przypadek testowy 1: Zmiana profilu użytkownika
+
+ID: UAS_TC_001
+Opis: Ten przypadek testowy sprawdza, czy użytkownik może zmienić swój obrazek profilowy w ustawieniach konta Spotify.
+
+Kroki testowe:
+1. Zaloguj się do aplikacji Spotify.
+2. Przejdź do ustawień konta użytkownika.
+3. Znajdź opcję zmiany obrazka profilowego.
+4. Wybierz nowy obrazek profilowy z lokalnego dysku.
+5. Zmień inne dostępne do zmiany dane konta takie jak: nazwa, płeć, data urodznia, e-mail i hasło.
+5. Zapisz zmiany i odśwież stronę.
+
+Oczekiwany wynik:
+- Obrazek profilowy użytkownika oraz inne dane użytkownika powinny zostać zaktualizowane zgodnie z wprowadzonymi danymi.
+
+Przypadek testowy 2: Zarządzanie planami subskrypcji
+
+ID: UAS_TC_002
+Opis: Ten przypadek testowy sprawdza, czy użytkownik może zarządzać swoimi planami subskrypcji w ustawieniach konta Spotify.
+
+Kroki testowe:
+1. Zaloguj się do aplikacji Spotify.
+2. Przejdź do ustawień konta użytkownika.
+3. Znajdź opcję zarządzania planami subskrypcji.
+4. Wybierz nowy plan subskrypcji (np. Premium, Family, Student).
+5. Potwierdź zmiany i sprawdź ich skuteczność.
+
+Oczekiwany wynik:
+- Plan subskrypcji użytkownika powinien zostać zmieniony zgodnie z wybraną opcją.
+
+Przypadek testowy 3: Dostosowywanie ustawień prywatności
+
+ID: UAS_TC_003
+Opis: Ten przypadek testowy sprawdza, czy użytkownik może dostosować ustawienia prywatności swojego konta w aplikacji Spotify.
+
+Kroki testowe:
+1. Zaloguj się do aplikacji Spotify.
+2. Przejdź do ustawień prywatności konta użytkownika.
+3. Znajdź opcje dotyczące prywatności, takie jak widoczność odsłuchiwanych utworów, publiczny profil itp.
+4. Dostosuj ustawienia prywatności według preferencji.
+5. Zapisz zmiany i sprawdź ich skuteczność.
+
+Oczekiwany wynik:
+- Ustawienia prywatności użytkownika powinny zostać zaktualizowane zgodnie z wybranymi opcjami.
+
+Przypadek testowy 4: Łączenie kont mediów społecznościowych
+
+ID: UAS_TC_004
+Opis: Ten przypadek testowy sprawdza, czy użytkownik może połączyć swoje konto Spotify z kontami mediów społecznościowych, takimi jak Facebook.
+
+Kroki testowe:
+1. Zaloguj się do aplikacji Spotify.
+2. Przejdź do ustawień konta użytkownika.
+3. Znajdź opcję łączenia kont mediów społecznościowych.
+4. Połącz swoje konto z kontem Facebook.
+5. Zaloguj się do wybranych mediów społecznościowych i zezwól na połączenie konta.
+6. Potwierdź zmiany i sprawdź ich skuteczność.
+
+Oczekiwany wynik:
+- Konto Spotify użytkownika powinno zostać połączone z wybranym kontem mediów społecznościowych, umożliwiając dzielenie się działaniami na Spotify ze znajomymi, oraz wyszukiwania znajomych z Facebook'a z kontem Spotify.

@@ -1,0 +1,60 @@
+ID przypadku testowego: RS_TC_001
+Nazwa przypadku testowego: Sprawdź generowanie "Odkryj w tym tygodniu"
+
+Opis:
+- Ten przypadek testowy sprawdza, czy lista "Odkryj w tym tygodniu" jest generowana poprawnie na podstawie preferencji użytkownika i historii odsłuchów.
+
+Kroki testowe:
+1. Zaloguj się do aplikacji Spotify.
+2. Przejdź do sekcji "Home" lub "Odkrywaj".
+3. Zweryfikuj, czy lista "Odkrywaj co tydzień" jest wyświetlana.
+4. Sprawdź, czy utwory w liście "Odkryj w tym tygodniu" odpowiadają preferencjom muzycznym użytkownika i historii odsłuchów.
+
+Oczekiwany wynik:
+- Lista "Odkryj w tym tygodniu" powinna być generowana z mieszaniną polecanych utworów odpowiadających gustowi i nawykom słuchania użytkownika.
+
+ID przypadku testowego: RS_TC_002
+Nazwa przypadku testowego: Sprawdź generowanie codziennych miksów
+
+Opis:
+- Ten przypadek testowy sprawdza, czy codzienne miksy są generowane poprawnie na podstawie preferencji użytkownika i historii odsłuchów.
+
+Kroki testowe:
+1. Zaloguj się do aplikacji Spotify.
+2. Przejdź do sekcji "Home" lub "Odkrywaj".
+3. Zweryfikuj, czy są wyświetlane "Codzienne miksy".
+4. Sprawdź, czy każdy codzienny miks zawiera wybór utworów z różnych gatunków i artystów, bazując na historii odsłuchów użytkownika.
+
+Oczekiwany wynik:
+- Każdy codzienny miks powinien być generowany z różnorodnymi utworami dostosowanymi do preferencji muzycznych użytkownika, obejmującymi różne gatunki i artystów.
+
+ID przypadku testowego: RS_TC_003
+Nazwa przypadku testowego: Sprawdź rekomendacje utworów na podstawie historii odsłuchów
+
+Opis:
+- Ten przypadek testowy sprawdza, czy rekomendacje utworów są zgodne z historią odsłuchów użytkownika.
+
+Kroki testowe:
+1. Zaloguj się do aplikacji Spotify.
+2. Przejdź do sekcji "Home".
+3. Zjedz na dół strony i obserwuj polecane utwory i listy. 
+4. Sprawdź, czy polecane utwory są związane z gatunkiem lub tematem list odtwarzania oraz historią odsłuchów użytkownika.
+
+Oczekiwany wynik:
+- Polecane utwory powinny ściśle wiązać się z gatunkami list odtwarzania oraz z historią odsłuchów użytkownika.
+
+ID przypadku testowego: RS_TC_004
+Nazwa przypadku testowego: Sprawdź aktualność rekomendacji
+
+Opis:
+- Ten przypadek testowy sprawdza, czy rekomendacje są regularnie aktualizowane, aby odzwierciedlać zmiany w preferencjach muzycznych i nawykach odsłuchiwania użytkownika.
+
+Kroki testowe:
+1. Zaloguj się do aplikacji Spotify.
+2. Odsłuchaj różnorodne utwory z różnych gatunków i artystów - innych nich dotychczas.
+3. Poczekaj przez pewien okres czasu (np. tydzień).
+4. Wróć do sekcji rekomendacji.
+5. Sprawdź, czy rekomendacje zostały odświeżone i zaktualizowane na podstawie ostatniej aktywności odsłuchiwania.
+
+Oczekiwany wynik:
+- Rekomendacje powinny być regularnie odświeżane, aby dostarczać użytkownikom nowych i trafnych sugestii opartych na ewoluujących preferencjach muzycznych.

@@ -1,0 +1,14 @@
+1. Odtwarzanie muzyki
+2. Wyszukiwanie  muzyki
+3. Tworzenie playlist
+4. Korzystanie z systemu rekomendacji
+5. Modyfikowanie ustawień konta użytkownika
+6. Strumieniowe przysyłanie muzyki
+7. Pobieranie muzyki do zasobów offline
+8. Dodawanie utworów do "polubionych"
+9. Dodawanie i obserwacja aktywności znajomych
+10. Funkcja Jam, współdzielenie listy ze znajomymi
+11. Automatyczne oznaczanie odtworzonych podcastów
+12. Profil wykonawcy
+
+
